@@ -30,9 +30,7 @@ It is designed for **music analysis, data collection, and audio research** workf
 Sc/
 ├── main.py
 ├── data.csv
-├── Songs/
-│   └── tmp/
-└── core/
+├── core/
     ├── controller.py
     ├── worker.py
     ├── metadata.py
