@@ -53,7 +53,7 @@ Python 3.10+
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/s_cloud_cli.git
+git@github.com:mloudifa/S_CLOUD-CLI.git
 cd s_cloud_cli
 pip install -r requirements.txt
 ```
